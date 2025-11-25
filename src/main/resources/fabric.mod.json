@@ -8,8 +8,9 @@
 		"Survivalblock"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/ekulxam/TMM-nonether",
+		"sources": "https://github.com/ekulxam/TMM-nonether",
+        "issues": "https://github.com/ekulxam/TMM-nonether/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/tmm_nonether/icon.png",
